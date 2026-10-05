@@ -1,6 +1,6 @@
 # Squad by HabariPay for OpenCart 2.3.x
 
-Receive payment with Squad by HabariPay from your OpenCart Store
+Squad payment extension for OpenCart 2.3.x
 
 **Version:** 1.0.10  
 **Tested compatibility:** Squad by HabariPay for OpenCart 2.3.x 2.3.0.0, 2.3.0.1, 2.3.0.2
